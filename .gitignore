@@ -1,0 +1,16 @@
+# Modèles entraînés (volumineux, régénérables avec train_model.py)
+models/*.pkl
+
+# Environnements Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Système
+.DS_Store
+Thumbs.db
+
+# Éditeurs
+.vscode/
+.idea/
